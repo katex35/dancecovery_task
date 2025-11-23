@@ -5,10 +5,5 @@ class GameData {
     WordPair('Cat', 'Tiger'),
     WordPair('Coffee', 'Tea'),
     WordPair('Ship', 'Boat'),
-    WordPair('Sun', 'Moon'),
-    WordPair('Apple', 'Orange'),
-    WordPair('Plane', 'Helicopter'),
-    WordPair('Guitar', 'Violin'),
-    WordPair('Soccer', 'Basketball'),
   ];
 }
